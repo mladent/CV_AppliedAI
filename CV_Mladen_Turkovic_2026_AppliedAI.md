@@ -1,18 +1,15 @@
 # Mladen Turković
 
-**Address** Martin-Luther-Straße 17, Berlin 10777, Germany
-**Phone** +49 1575 564 94 71
-**Email** turkovic.mladen@gmail.com
-**LinkedIn** https://www.linkedin.com/in/mladen-turkovi%C4%87-08196032
-**Public Git** https://github.com/mladent & https://gitlab.com/turkovic.mladen
-**Nationality** Croatian
+- **Email** turkovic . mladen [at] gmail . com
+- **LinkedIn** https://www.linkedin.com/in/mladen-turkovi%C4%87-08196032
+- **Public Git** https://github.com/mladent & https://gitlab.com/turkovic.mladen
 
 ---
 
 ## Summary
 
 **Applied AI Engineer — Evaluation, POC & Production Readiness.** 
-Applied AI Engineer with 10+ years delivering language AI systems in production. My workflow runs from business need analysis and evaluation design through POC development and validation to production‑ready handoff, I own the full arc from "something is broken" to "it ships." Linguistics-trained with hands‑on depth across LLM evaluation, prompt optimisation, RAG, and multilingual NLP. Delivered at enterprise scale for Volkswagen, Airbus, and Nordmetall. 
+Applied AI Engineer with 10+ years delivering language AI systems in production. My workflow runs from business need analysis and evaluation design through POC development and validation to production‑ready handoff, I own the full arc from "something is broken" to "it ships." Linguistics-trained with hands‑on depth across LLM evaluation, prompt optimisation, RAG, and multilingual NLP. Delivered at enterprise scale for Volkswagen, Airbus, and Nordmetall.  
 Certified in Deep Learning, LLM post-training, and RAG.
 
 ---
@@ -20,7 +17,7 @@ Certified in Deep Learning, LLM post-training, and RAG.
 ## Work Experience
 
 ### Nov. 2025 - Mar. 2026 | Applied AI Engineer – LLM Evaluation & Production Quality
-(Project end Dec 2025; Role ended Mar 2026)
+_(Project end Dec 2025; Role ended Mar 2026)_  
 **emagine GmbH, Berlin, Germany** (for emagine Group; cross-departmental project engagement)
 
 Brought in mid-flight to resolve a production quality failure: strong internal metrics, consistent end-user complaints. Owned the full arc from diagnosis to production fix.
@@ -60,7 +57,7 @@ Delivered end-to-end NLU/NLP engineering across 12–18 languages and 5 vehicle 
 ---
 
 ### Apr. 2015 - May 2017 | NLP Engineer & ML Systems Developer
-**MassineScheffer & Co. GmbH → key4talent GmbH, Berlin, Germany**
+**MassineScheffer & Co. GmbH → key4talent GmbH, Berlin, Germany**  
 _(company restructured through change of shareholding; project and team continuity maintained)_
 
 End-to-end owner of a production ML system for automated psychological profiling from free text (OMT platform):
@@ -76,7 +73,8 @@ End-to-end owner of a production ML system for automated psychological profiling
 ## Earlier Experience
 
 ### May 2014 – Oct. 2014 | Research Assistant
-**UKP-Lab & DIPF at Technischen Universität Darmstadt**
+**UKP-Lab & DIPF at Technischen Universität Darmstadt**  
+
 Computational linguistics research; NLP annotation tooling (Stanford NLP, PHP, bash, MySQL/WordNet)
 - Publication: [Towards the Automatic Detection and Identification of English Puns](https://doi.org/10.7592/EJHR2016.4.1.miller)
 
@@ -116,14 +114,15 @@ Began as a professional translator and interpreter working with CAT tools and tr
 
 ## Degree
 
-**Sep. 1997 - Oct. 2004 | M.A. English Language & Literature (Philology & Linguistics)**
+**Sep. 1997 - Oct. 2004 | M.A. English Language & Literature (Philology & Linguistics)**  
 University of Padua, Italy
 
 ---
 
 ## Publication
 
-Miller, Tristan; Turkovic, Mladen -- **"Towards the Automatic Detection and Identification of English Puns"**
+Miller, Tristan; Turkovic, Mladen  
+**"Towards the Automatic Detection and Identification of English Puns"**
 *The European Journal of Humour Research*, 4(1), 59-75. https://doi.org/10.7592/EJHR2016.4.1.miller
 
 ---
